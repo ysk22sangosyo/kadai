@@ -1,0 +1,30 @@
+
+body{
+    background-color: coral;
+  
+}
+.zentai{
+   
+    height: 100%;
+}
+img[src$="chura.jfif"]{
+  height: 30%;
+  width: 100%;
+}
+
+img[src$="img/image-7ce90a37f42651513bc017f1999c824a.jpg"]{
+    height: 2%;
+      width: 2%;   
+  }
+  .title{
+      background-color: aliceblue;
+      font-size: 30px;
+      text-align: center;
+  }
+  .title span{
+      color: crimson;
+  }
+  #toha{
+      font-size: 40px;
+  }
+ 
