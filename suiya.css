@@ -1,0 +1,22 @@
+body{
+    background-color:rgba(56, 137, 192, 0.3)
+    
+}
+.suiyatoha h1{
+    color: blue;
+    
+}
+.suiyatoha{
+    color: rgb(255, 255, 255);
+    background-color: rgb(4, 4, 4);
+    text-align: center;
+}
+.GG{
+    height: 50%;
+    width: 50%;
+}
+.modoru{
+    font-size: 30px;
+    background-color: crimson;
+    border-radius: 50px;
+    color: aliceblue;
