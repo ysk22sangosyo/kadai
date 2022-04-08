@@ -1,0 +1,20 @@
+body{
+    background-color:rgba(241, 209, 27, 0.3)
+   
+}
+.kinyatoha{
+    text-align: center;
+}
+.kinyatoha h1{
+    color: gold;
+    
+}
+.kinyatoha{
+    color: rgb(255, 255, 255);
+    background-color: rgb(4, 4, 4);
+}
+.modoru{
+    font-size: 30px;
+    background-color: crimson;
+    border-radius: 50px;
+    color: aliceblue;
