@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(126, 241, 106);
+   
+}
+
+.rist{
+    margin-left: 350px;
+    margin-top: -300px;
+}
+.tp{
+    font-size: 30px;
+    background-color: crimson;
+    border-radius: 50px;
+    color: aliceblue;
+    margin: auto;
+}
+.suma{
+    position: relative;
+}
+.suma img {
+    width: 100%;
+    background-color: aliceblue;
+    padding-left: -70px
+    padding: right -70px;
+    }
+.suma p{
+    font-size: 25px;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    margin:0;
+    padding:0;
+}
+
